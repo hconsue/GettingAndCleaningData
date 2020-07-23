@@ -34,9 +34,9 @@ The numeric columns are the means of the corresponding variables in the source f
 referring to "Mean" or to "standard deviation- Std"). The original column names have been adjusted
 to eliminate special characters:  commas, parenthesis, and hyphens. Column names prefixes:
 
-t:     time domain signals
-f:     frequency domain signals
-angle: angle between to vectors
+t:     time domain signals<br>
+f:     frequency domain signals<br>
+angle: angle between to vectors<br>
 
 The unit of each variable is the same as the corresponding variable in the data source.
 
